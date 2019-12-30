@@ -14,6 +14,9 @@ Installation
 
 -kemudian ketikan https:/localhost/BBEST/web
 
+
 untuk login
-username  : neo
-passsqord : neo
+username  : neo passsword : neo
+
+
+Terima kasih
