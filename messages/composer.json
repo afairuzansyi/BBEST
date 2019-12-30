@@ -1,0 +1,5 @@
+{
+    "require": {
+        "mdmsoft/yii2-ar-behaviors": "~1.0"
+    }
+}
